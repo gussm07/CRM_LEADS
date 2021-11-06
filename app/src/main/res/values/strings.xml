@@ -2,4 +2,9 @@
     <string name="app_name">CRM_LEADS</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre">Nombre</string>
+    <string name="cargo">Cargo</string>
+    <string name="compañia">Compañía</string>
+    <string name="todo">TODO</string>
+    <string name="iv_avatar">TODO</string>
 </resources>
